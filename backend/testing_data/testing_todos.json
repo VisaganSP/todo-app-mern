@@ -1,0 +1,62 @@
+[
+    {
+      "title": "Complete Project Proposal",
+      "description": "Draft a detailed project proposal including scope and deliverables.",
+      "duration": 4,
+      "completed": false
+    },
+    {
+      "title": "Setup Development Environment",
+      "description": "Install necessary software tools and libraries for development.",
+      "duration": 2,
+      "completed": true
+    },
+    {
+      "title": "Implement Backend API",
+      "description": "Create RESTful API endpoints for the backend server.",
+      "duration": 8,
+      "completed": false
+    },
+    {
+      "title": "Design User Interface",
+      "description": "Sketch wireframes and design user interface elements.",
+      "duration": 6,
+      "completed": false
+    },
+    {
+      "title": "Database Schema Design",
+      "description": "Plan and create database schema for the application.",
+      "duration": 3,
+      "completed": true
+    },
+    {
+      "title": "Frontend Components Development",
+      "description": "Develop reusable React components for frontend views.",
+      "duration": 10,
+      "completed": false
+    },
+    {
+      "title": "Implement Authentication",
+      "description": "Integrate user authentication and authorization features.",
+      "duration": 5,
+      "completed": false
+    },
+    {
+      "title": "Deploy Application to Server",
+      "description": "Deploy the application to a cloud server for production use.",
+      "duration": 2,
+      "completed": false
+    },
+    {
+      "title": "Write User Documentation",
+      "description": "Prepare comprehensive user documentation and guides.",
+      "duration": 4,
+      "completed": false
+    },
+    {
+      "title": "Perform System Testing",
+      "description": "Conduct rigorous testing to ensure application stability and performance.",
+      "duration": 7,
+      "completed": false
+    }
+  ]
